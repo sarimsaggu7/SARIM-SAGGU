@@ -1,0 +1,7 @@
+{
+  "name": "Jarvas AI Assistant",
+  "description": "A sophisticated AI assistant inspired by JARVIS, leveraging Gemini for real-time information, multilingual communication, and intelligent responses. Features voice and text interaction in a sleek, futuristic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
